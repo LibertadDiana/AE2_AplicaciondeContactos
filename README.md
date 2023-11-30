@@ -40,17 +40,31 @@ Esta ventana emergente permite al usuario ingresar los datos del contacto: nombr
 Nota: En la ventana emergente en caso de no ingresar ningún dato en las cajas de texto, y le
 demos al check el sistema nos mostrará una alerta.
 
+![7](https://github.com/LibertadDiana/AE2_AplicaciondeContactos/assets/124418682/f888e28c-11ad-46b1-9c47-99408c148cec)
+
 4. Se agrega un botón "Editar". Al hacer clic en este botón, se abre otra ventana emergente que nos permite editar los datos del contacto seleccionado previamente para modificarlos. Al hacer clic en check la tabla
    de la ventana principal se actualiza con los datos modificados.
+   
+ ![8](https://github.com/LibertadDiana/AE2_AplicaciondeContactos/assets/124418682/417a7a0b-b435-4dc0-8994-b3ec89b27963)  
+ 
 Queremos actualizar los datos de Godofredo agregando el apellido.
 
+![9](https://github.com/LibertadDiana/AE2_AplicaciondeContactos/assets/124418682/9e1748f8-f648-42b4-80ea-b2e53bc7767b)
+
 La ventana principal nos muestra los datos actualizados.
+
+![10](https://github.com/LibertadDiana/AE2_AplicaciondeContactos/assets/124418682/606a0b96-1a29-43e4-bbc7-d9b8e6f609f8)
+
 Nota: Para darle al botón editar debemos previamente seleccionar un contacto de la tabla, en
 caso contrario nos mostrará la siguiente alerta.
+
+![11](https://github.com/LibertadDiana/AE2_AplicaciondeContactos/assets/124418682/988d4735-67fc-426c-815c-170ec10e1cc8)
 
 4. Se ha agregado un botón "Eliminar". Al hacer clic en este botón, se elimina el contacto de la
 lista que se haya seleccionado. En caso de no haber seleccionado nos muestra el siguiente
 mensaje.
+
+![12](https://github.com/LibertadDiana/AE2_AplicaciondeContactos/assets/124418682/429821d4-54a1-4762-962f-ddf3c3060166)
 
 # Conclusión.
 Para realizar esta actividad hemos puesto en práctica lo aprendido en la Unidad UF4, la creación de interfaces gráficas de usuario(GUI) mediante java y la librería swing, que nos ha permitido crear ventanas 

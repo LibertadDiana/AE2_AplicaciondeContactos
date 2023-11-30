@@ -46,8 +46,7 @@ demos al check el sistema nos mostrará una alerta.
    de la ventana principal se actualiza con los datos modificados.
    
  ![8](https://github.com/LibertadDiana/AE2_AplicaciondeContactos/assets/124418682/417a7a0b-b435-4dc0-8994-b3ec89b27963)  
- 
-Queremos actualizar los datos de Godofredo agregando el apellido.
+ Queremos actualizar los datos de Godofredo agregando el apellido.
 
 ![9](https://github.com/LibertadDiana/AE2_AplicaciondeContactos/assets/124418682/9e1748f8-f648-42b4-80ea-b2e53bc7767b)
 
